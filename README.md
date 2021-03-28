@@ -1,6 +1,6 @@
 # write-wave-file
 
-* Command line utility to generate wave files containing sine waves *
+*Command line utility to generate wave files containing sine waves*
 
 Adapted from "The Audio Programming Book" by Boulanger and Lazzarini, appendix C "Self-Describing Soundfile Formats" with translation from C to Go.
 
